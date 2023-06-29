@@ -1,14 +1,18 @@
 * {
   padding: 0; 
   margin: 0;
-  box-sizing: border-box;
-  
+  box-sizing: border-box; 
 }
 
 body {
-    background-color:aliceblue;
+    background-image: url(/img/v722-aum-33b.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
  
+
 }
+
 header {
     background-color:#a38a79;
     padding: 5px;
