@@ -5,21 +5,19 @@
 }
 
 body {
-    background-image: url(/img/v722-aum-33b.jpg);
-    background-size: cover;
-    background-position: center;
-    height: 60vh;
- 
-
+  background-color: antiquewhite;
+  background-size: cover;
+  background-position: center;
+  height: 60vh;
 }
 
 
 
 header {
-    background-color:#a38a79;
-    padding: 5px;
-    text-align: left;
-    border-bottom: 2px solid #746053; 
+  background-color:#a38a79;
+  padding: 5px;
+  text-align: left;
+  border-bottom: 2px solid #746053; 
 }
 
 li{
